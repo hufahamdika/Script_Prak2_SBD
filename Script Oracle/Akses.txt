@@ -1,0 +1,4 @@
+INSERT INTO Akses (ak_id, ak_jenis_akses) VALUES (3101, 'owner');
+INSERT INTO Akses (ak_id, ak_jenis_akses) VALUES (3102, 'admin');
+INSERT INTO Akses (ak_id, ak_jenis_akses) VALUES (3103, 'editor');
+INSERT INTO Akses (ak_id, ak_jenis_akses) VALUES (3104, 'reviewer');
